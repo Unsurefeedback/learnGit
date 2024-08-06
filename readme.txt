@@ -1,3 +1,4 @@
+bug 已经修复完
 Add merge.
 Creating a new branch is quick.
 Git is a distributed version control system.
