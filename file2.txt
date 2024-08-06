@@ -1,0 +1,9 @@
+魏@LAPTOP-VUJUPMTS MINGW64 /d/learngit (master)
+魏@LAPTOP-VUJUPMTS MINGW64 /d/learngit (master)
+$ git add readme.txt
+warning: LF will be replaced by CRLF in readme.txt.
+The file will have its original line endings in your working directory
+$ git add readme.txt
+warning: LF will be replaced by CRLF in readme.txt.
+The file will have its original line endings in your working directory
+
